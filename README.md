@@ -78,26 +78,45 @@ All images and video files have been organized into the **images/** folder for b
 
 **Complete Step-by-Step Video Walkthrough**
 
-> **Note:** Click the link below to download and watch the video tutorial on your computer.
+> **📹 Video File:** `9.Step 9.MP4` (74.6 MB) - Stored in Git LFS
 
-#### 📥 Download & Watch Video
+#### 📥 How to Download & Watch Video
 
-[![Download Video](https://img.shields.io/badge/Download-9.Step%209.MP4%20(74.6%20MB)-blue?style=for-the-badge&logo=download)](CapCut%20Pro%20-%20Version%201/images/9.Step%209.MP4)
+**Option 1: Direct Download from Repository** ✅
+- Navigate to: `CapCut Pro - Version 1/images/9.Step 9.MP4`
+- Click the download button (⬇️) in the top right
+- Save and open with your video player
+
+**Option 2: Download from Releases**
+- Visit: [GitHub Releases](https://github.com/surjolive/capcut-pro-v1/releases)
+- Download from v1.0 release
+- Extract and play video
+
+**Option 3: Clone Repository**
+```bash
+git clone https://github.com/surjolive/capcut-pro-v1.git
+cd capcut-pro-v1
+# Video location: CapCut Pro - Version 1/images/9.Step 9.MP4
+```
 
 **Video Details:**
 - **File:** 9.Step 9.MP4
 - **Size:** 74.6 MB
-- **Format:** MP4 Video (Works with any video player)
+- **Format:** MP4 Video (Works with any video player: Windows Media Player, VLC, etc.)
 - **Content:** Complete CapCut Pro v13.7.0 installation and setup walkthrough
 - **Language:** Bengali (বাংলা)
+- **Storage:** Git LFS (Large File Storage)
 
-**How to Watch:**
-1. Click the blue "Download" button above
-2. Save the file to your computer
-3. Open with your preferred video player (Windows Media Player, VLC, etc.)
-4. Watch the complete step-by-step tutorial
+**Recommended Players:**
+- 🪟 Windows: Windows Media Player, VLC
+- 🍎 Mac: QuickTime, VLC
+- 🐧 Linux: VLC, MPV
 
-**Alternative Download:** [Direct Link](CapCut%20Pro%20-%20Version%201/images/9.Step%209.MP4)
+**Watch Instructions:**
+1. Download the video file from any option above
+2. Open with your preferred video player
+3. Watch the complete step-by-step tutorial
+4. Follow along with the installation process
 
 ---
 
