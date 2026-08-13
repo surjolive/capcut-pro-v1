@@ -78,20 +78,26 @@ All images and video files have been organized into the **images/** folder for b
 
 **Complete Step-by-Step Video Walkthrough**
 
-<video width="100%" controls>
-  <source src="CapCut%20Pro%20-%20Version%201/images/9.Step%209.MP4" type="video/mp4">
-  Your browser does not support the video tag. 
-  <a href="CapCut%20Pro%20-%20Version%201/images/9.Step%209.MP4">Download video here</a>
-</video>
+> **Note:** Click the link below to download and watch the video tutorial on your computer.
+
+#### 📥 Download & Watch Video
+
+[![Download Video](https://img.shields.io/badge/Download-9.Step%209.MP4%20(74.6%20MB)-blue?style=for-the-badge&logo=download)](CapCut%20Pro%20-%20Version%201/images/9.Step%209.MP4)
 
 **Video Details:**
-- File: 9.Step 9.MP4
-- Size: 74.6 MB
-- Format: MP4 Video
-- Content: Complete CapCut Pro v13.7.0 installation and setup walkthrough
-- Language: Bengali (বাংলা)
+- **File:** 9.Step 9.MP4
+- **Size:** 74.6 MB
+- **Format:** MP4 Video (Works with any video player)
+- **Content:** Complete CapCut Pro v13.7.0 installation and setup walkthrough
+- **Language:** Bengali (বাংলা)
 
-📹 **Direct Download Link:** [9.Step 9.MP4](CapCut%20Pro%20-%20Version%201/images/9.Step%209.MP4) (74.6 MB)
+**How to Watch:**
+1. Click the blue "Download" button above
+2. Save the file to your computer
+3. Open with your preferred video player (Windows Media Player, VLC, etc.)
+4. Watch the complete step-by-step tutorial
+
+**Alternative Download:** [Direct Link](CapCut%20Pro%20-%20Version%201/images/9.Step%209.MP4)
 
 ---
 
