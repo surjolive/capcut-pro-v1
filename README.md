@@ -74,6 +74,21 @@ All images and video files have been organized into the **images/** folder for b
 
 ![Reference Screenshot 4](CapCut%20Pro%20-%20Version%201/images/Screenshot%202026-08-13%20175717.png)
 
+### 🎬 Video Tutorial
+
+**Complete Step-by-Step Video Walkthrough**
+
+📹 **[Download Video: 9.Step 9.MP4](CapCut%20Pro%20-%20Version%201/images/9.Step%209.MP4)** (74.6 MB)
+
+This comprehensive video tutorial walks through the complete installation and configuration process. Download and watch it for a visual guide to all steps.
+
+**Video Details:**
+- File: 9.Step 9.MP4
+- Size: 74.6 MB
+- Format: MP4 Video
+- Content: Complete CapCut Pro v13.7.0 installation and setup walkthrough
+- Language: Bengali (বাংলা)
+
 ---
 
 ### Step-by-Step Guides
